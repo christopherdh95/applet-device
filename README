@@ -1,0 +1,10 @@
+110	msgstr "连接已建立"
+111	
+112	#: ../src/applet-device-bt.c:205
+113	msgid "You are now connected to the mobile broadband network."
+…	
+2844	#~ msgid "PUK code is needed for the mobile broadband device"
+2845	#~ msgstr "移动宽带设备需要 PUK 码。"
+2846	
+2847	#~ msgctxt "No wired security used"
+2848	#~ msgid "None"
